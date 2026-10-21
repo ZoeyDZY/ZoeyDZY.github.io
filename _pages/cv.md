@@ -19,7 +19,7 @@ redirect_from:
 ## Conferences & Presentations
 
 ### Midwest Relativity Meeting 2026
-**Oral Presentation** · Oakland University, Oakland, MI, USA
+**Oral Presentation** · Oakland University, Oakland, MI, USA  
 *October 2026*  
 
 ### Compact Stars in the QCD Phase Diagram 2024
@@ -37,17 +37,6 @@ Received the **Best Student Talk Award**.
 **Oral Presentation** · Tsung-Dao Lee Institute, Shanghai, China  
 *March 2024*
 
-
-## Teaching Experience
-
-### University of Illinois Urbana-Champaign
-**Teaching Assistant — PHYS 225: Relativity & Math Applications**  
-*Fall 2025 · Spring 2026 · Fall 2026*
-
-
-### Shuiguohu No. 2 Middle School, Wuhan, China
-**Full-time Teaching Intern**  
-*Fall 2023*
 
 
 ## Honors & Awards
