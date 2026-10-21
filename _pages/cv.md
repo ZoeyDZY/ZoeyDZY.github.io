@@ -54,4 +54,4 @@ Top 10% of 250 interns, Central China Normal University
 
 **International Exchange Scholarship**  
 ~300 USD, Central China Normal University  
-*Oct 2023*
+*October 2023*
