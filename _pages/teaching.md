@@ -13,7 +13,7 @@ Fall 2025 · Spring 2026 · Fall 2026
 
 ## Teaching at Shuiguohu No. 2 Middle School
 
-**Full-time Intern**
+**Full-time Intern**  
 Fall 2023
 
 - **Taught middle-school physics** for two classes (80 students), including lectures and laboratory sessions, and graded homework and exams.
