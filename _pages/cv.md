@@ -49,3 +49,7 @@ Compact Stars in the QCD Phase Diagram 2024, Yukawa Institute for Theoretical Ph
 **Teaching Intern Award**  
 Top 10% of 250 interns, Central China Normal University  
 *May 2024*
+
+**International Exchange Scholarship**  
+~300 USD, Central China Normal University  
+*Oct 2023*
