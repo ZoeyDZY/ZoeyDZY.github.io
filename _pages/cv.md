@@ -12,7 +12,7 @@ redirect_from:
 **Ph.D. in Physics**, University of Illinois Urbana-Champaign  
 *2025–2030 (expected)*
 
-**B.S. in Physics (Education)**, Central China Normal University  
+**B.S. in Physics**, Central China Normal University  
 *2020–2024*
 
 
