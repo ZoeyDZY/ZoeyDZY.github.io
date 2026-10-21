@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Physics at the **University of Illinois Urbana-Champaign** (UIUC), working with Prof. Nicolás Yunes. 
+I am a PhD candidate in Physics at the **University of Illinois Urbana-Champaign** (UIUC), working with Prof. Nicolas Yunes. 
 
 Before joining UIUC for my PhD, I completed my undergraduate studies in Physics Education at Central China Normal University. My research experience began during an exchange at The Chinese University of Hong Kong and subsequently continued at the University of Virginia.
 
