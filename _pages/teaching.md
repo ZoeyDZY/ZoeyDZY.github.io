@@ -7,16 +7,14 @@ author_profile: true
 
 ## Teaching at UIUC
 
-At the University of Illinois Urbana-Champaign, I served as a teaching assistant for:
-
 **PHYS 225 — Relativity & Math Applications**  
 Fall 2025 · Spring 2026 · Fall 2026
 
 
 ## Teaching at Shuiguohu No. 2 Middle School
-Fall 2023
 
-As a full-time teaching intern, I:
+**Full-time Intern**
+Fall 2023
 
 - **Taught middle-school physics** for two classes (80 students), including lectures and laboratory sessions, and graded homework and exams.
 
