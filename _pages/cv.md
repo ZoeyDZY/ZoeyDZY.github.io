@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+For a complete version, please see my [full CV (PDF)](/files/CV.pdf).
+
 ## Education
 
 **Ph.D. in Physics**, University of Illinois Urbana-Champaign  
