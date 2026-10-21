@@ -8,7 +8,7 @@ author_profile: true
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=JMiUrboAAAAJ&hl=en) and [INSPIRE-HEP](https://inspirehep.net/authors/3083912).
 
 
-<div style="display: grid; grid-template-columns: 2.2em 1fr; column-gap: 0.3em; margin-top: 2em; margin-bottom: 2.5em;">
+<div style="display: grid; grid-template-columns: 1.8em 1fr; column-gap: 0; margin-top: 2em; margin-bottom: 2.5em;">
   <div style="font-size: 1.15em;">1.</div>
   <div>
     <div style="font-size: 1.15em; font-weight: 700; margin-bottom: 0.35em;">
@@ -27,7 +27,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 </div>
 
 
-<div style="display: grid; grid-template-columns: 2.2em 1fr; column-gap: 0.3em; margin-bottom: 2.5em;">
+<div style="display: grid; grid-template-columns: 1.8em 1fr; column-gap: 0; margin-bottom: 2.5em;">
   <div style="font-size: 1.15em;">2.</div>
   <div>
     <div style="font-size: 1.15em; font-weight: 700; margin-bottom: 0.35em;">
@@ -47,7 +47,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 </div>
 
 
-<div style="display: grid; grid-template-columns: 2.2em 1fr; column-gap: 0.3em; margin-bottom: 2.5em;">
+<div style="display: grid; grid-template-columns: 1.8em 1fr; column-gap: 0; margin-bottom: 2.5em;">
   <div style="font-size: 1.15em;">3.</div>
   <div>
     <div style="font-size: 1.15em; font-weight: 700; margin-bottom: 0.35em;">
