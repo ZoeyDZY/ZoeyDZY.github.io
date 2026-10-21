@@ -187,3 +187,7 @@ I am particularly interested in understanding how the **internal physics of neut
   </div>
 
 </div>
+
+<div style="margin-top: 3em; font-size: 0.72em; color: #888; text-align: right;">
+  <em>Illustrations created with ChatGPT based on my concepts and scientific direction.</em>
+</div>
