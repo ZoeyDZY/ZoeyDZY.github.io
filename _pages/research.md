@@ -4,4 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on gravitational physics, neutron stars, and dense matter.
+Currently, I am interested in understanding how the **internal physics of neutron stars** can be probed through their **structure, dynamics, oscillations, and gravitational-wave signatures**.
+
+
+## Neutron Stars & Dense Matter
