@@ -5,25 +5,85 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+.research-section {
+  display: grid;
+  grid-template-columns: 42% 58%;
+  column-gap: 2.2em;
+  align-items: center;
+  margin-top: 1.5em;
+  margin-bottom: 3.5em;
+}
+
+.research-figure {
+  text-align: center;
+  min-width: 0;
+}
+
+.research-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.research-caption {
+  font-size: 0.85em;
+  font-style: italic;
+  margin-top: 0.7em;
+  line-height: 1.4;
+}
+
+.research-text {
+  min-width: 0;
+  padding-left: 0.3em;
+}
+
+.research-text p:first-child {
+  margin-top: 0;
+}
+
+.research-text p:last-child {
+  margin-bottom: 0;
+}
+
+/* On phones and narrow screens, stack image and text */
+@media (max-width: 800px) {
+  .research-section {
+    grid-template-columns: 1fr;
+    row-gap: 1.5em;
+  }
+
+  .research-figure {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .research-text {
+    padding-left: 0;
+  }
+}
+</style>
+
+
 I am particularly interested in understanding how the **internal physics of neutron stars** can be probed through their **structure, dynamics, oscillations, and gravitational-wave signatures**.
 
 
 ## What might be inside a neutron star?
 
-<div style="display: flex; flex-wrap: wrap; gap: 2em; align-items: center; margin-top: 1.5em; margin-bottom: 3.5em;">
+<div class="research-section">
 
-  <div style="flex: 1 1 320px; max-width: 420px; text-align: center;">
+  <div class="research-figure">
     <img
       src="/images/neutron-star-interior.png"
       alt="Schematic structure of a neutron star with a dense inner core"
-      style="width: 100%; height: auto;"
     >
-    <div style="font-size: 0.85em; margin-top: 0.6em;">
-      <em>Schematic structure of a neutron star.</em>
+    <div class="research-caption">
+      Schematic structure of a neutron star.
     </div>
   </div>
 
-  <div style="flex: 2 1 420px;">
+  <div class="research-text">
     <p>
       Matter is relatively well constrained around <strong>nuclear saturation density</strong>, while perturbative QCD provides guidance at asymptotically high densities. Neutron-star cores lie between these regimes, where the equation of state remains highly uncertain.
     </p>
@@ -38,20 +98,19 @@ I am particularly interested in understanding how the **internal physics of neut
 
 ## How does the interior affect what we can observe?
 
-<div style="display: flex; flex-wrap: wrap; gap: 2em; align-items: center; margin-top: 1.5em; margin-bottom: 3.5em;">
+<div class="research-section">
 
-  <div style="flex: 1 1 320px; max-width: 420px; text-align: center;">
+  <div class="research-figure">
     <img
       src="/images/neutron-star-tidal-deformation.png"
       alt="Schematic illustration of the tidal deformation of a neutron star in a binary system"
-      style="width: 100%; height: auto;"
     >
-    <div style="font-size: 0.85em; margin-top: 0.6em;">
-      <em>Tidal deformation of a neutron star in a binary system.</em>
+    <div class="research-caption">
+      Tidal deformation of a neutron star in a binary system.
     </div>
   </div>
 
-  <div style="flex: 2 1 420px;">
+  <div class="research-text">
     <p>
       The internal composition and mechanical properties of a neutron star influence its <strong>global structure and response to external perturbations</strong>. These effects can leave observable imprints on quantities such as the star's mass, radius, and tidal deformability.
     </p>
@@ -66,20 +125,19 @@ I am particularly interested in understanding how the **internal physics of neut
 
 ## How can stellar dynamics reveal the interior?
 
-<div style="display: flex; flex-wrap: wrap; gap: 2em; align-items: center; margin-top: 1.5em; margin-bottom: 3em;">
+<div class="research-section">
 
-  <div style="flex: 1 1 320px; max-width: 420px; text-align: center;">
+  <div class="research-figure">
     <img
       src="/images/neutron-star-oscillation.png"
       alt="Schematic illustration of a nonradially oscillating neutron star"
-      style="width: 100%; height: auto;"
     >
-    <div style="font-size: 0.85em; margin-top: 0.6em;">
-      <em>Nonradial oscillations of a neutron star.</em>
+    <div class="research-caption">
+      Nonradial oscillations of a neutron star.
     </div>
   </div>
 
-  <div style="flex: 2 1 420px;">
+  <div class="research-text">
     <p>
       Neutron stars can also reveal their interiors through <strong>dynamical phenomena</strong>. Their oscillation modes depend on the stellar structure and on how different phases of matter respond to perturbations.
     </p>
