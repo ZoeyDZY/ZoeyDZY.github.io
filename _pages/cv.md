@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-For a complete version, please see my [full CV (PDF)](/files/CV.pdf).
+For a complete version, please see my [full CV](/files/CV.pdf).
 
 ## Education
 
